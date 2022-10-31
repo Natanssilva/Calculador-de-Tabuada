@@ -1,0 +1,59 @@
+
+body{
+    background: rgb(67, 67, 243);
+    font: normal 15pt Arial;
+}
+
+header{
+   
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    max-width: 500px;
+    box-shadow: 3px 3px 10px  rgba(0, 0, 0, 0.329);
+    
+}
+
+
+div {
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+#seltab {
+    text-align: center;
+    border: none;
+    overflow: hidden;
+    margin: 0 auto;
+    display: block;
+    padding: 5px
+}
+
+option {
+    padding: 7px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+select {  
+    overflow:hidden; 
+}
+
+#limpador{
+    
+    display: block;
+    margin: 0 auto;
+}
