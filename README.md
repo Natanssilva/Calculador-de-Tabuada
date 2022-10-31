@@ -6,7 +6,7 @@ Projeto com ênfase em Javascript com a iniciativa de calcular a tabuada de acor
   <video src="" >
 </div>
 
-> Acesse o projeto online **[AQUI]()**
+> Acesse o projeto online **[AQUI](https://mutiplicationtable.netlify.app/)**
 ## 🚀 Tecnologias utilizadas
 
 - [HTML5] 
